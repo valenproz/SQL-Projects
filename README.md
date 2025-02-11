@@ -1,1 +1,2 @@
-This Repository will hold all of the code and queries from the projects created in SQL.
+###  📑 SQL Projects  📑 
+> The purpose of this repository is to hold all the personal projects I've done using SQL.
